@@ -1,0 +1,301 @@
+pdam_00017423-RA  ( 231 ) -> [  Q8NGZ6  | percent(87.01 ) | e_value( 9E-31 ) | protein_name( OR6F1_HUMAN Olfactory receptor 6F1  ) | prob( 99.9 ) | p_value( 2.2E-34 ) | Score( 239.0 ) | SS( 0.0 ) | Cols( 268 ) | QueryHMM( 23-300 ) ]
+
+pdam_00020860-RA  ( 129 ) -> [  Q8NGZ0  | percent(82.32 ) | e_value( 9.5E-33 ) | protein_name( O2AJ1_HUMAN Olfactory receptor 2AJ1  ) | prob( 99.9 ) | p_value( 2.5E-36 ) | Score( 219.5 ) | SS( 0.0 ) | Cols( 270 ) | QueryHMM( 24-307 ) ]
+
+pdam_00017300-RA  ( 56 ) -> [  P0C7N5  | percent(69.58 ) | e_value( 9E-40 ) | protein_name( OR8U9_HUMAN Olfactory receptor 8U9  ) | prob( 100.0 ) | p_value( 2.4E-43 ) | Score( 296.3 ) | SS( 0.0 ) | Cols( 215 ) | QueryHMM( 4-305 ) ]
+
+pdam_00013387-RA  ( 51 ) -> [  P41231  | percent(75.33 ) | e_value( 9E-31 ) | protein_name( P2RY2_HUMAN P2Y purinoceptor 2  ) | prob( 99.9 ) | p_value( 2.4E-34 ) | Score( 225.9 ) | SS( 0.0 ) | Cols( 284 ) | QueryHMM( 29-317 ) ]
+
+pdam_00002661-RA  ( 26 ) -> [  Q13585  | percent(45.71 ) | e_value( 8.4E-40 ) | protein_name( MTR1L_HUMAN Melatonin-related receptor  ) | prob( 100.0 ) | p_value( 2.4E-43 ) | Score( 269.8 ) | SS( 0.0 ) | Cols( 282 ) | QueryHMM( 26-310 ) ]
+
+pdam_00013919-RA  ( 17 ) -> [  P32249  | percent(83.10 ) | e_value( 8.9E-37 ) | protein_name( GP183_HUMAN G-protein coupled receptor 183  ) | prob( 100.0 ) | p_value( 2.6E-40 ) | Score( 230.4 ) | SS( 0.0 ) | Cols( 300 ) | QueryHMM( 19-326 ) ]
+
+pdam_00008152-RA  ( 15 ) -> [  O95838  | percent(66.37 ) | e_value( 9.2E-44 ) | protein_name( GLP2R_HUMAN Glucagon-like peptide 2 receptor  ) | prob( 100.0 ) | p_value( 1.9E-47 ) | Score( 354.1 ) | SS( 0.0 ) | Cols( 367 ) | QueryHMM( 58-458 ) ]
+
+pdam_00013920-RA  ( 12 ) -> [  P32247  | percent(74.19 ) | e_value( 9E-39 ) | protein_name( BRS3_HUMAN Bombesin receptor subtype-3  ) | prob( 100.0 ) | p_value( 2.6E-42 ) | Score( 243.3 ) | SS( 0.0 ) | Cols( 296 ) | QueryHMM( 47-351 ) ]
+
+pdam_00013921-RA  ( 11 ) -> [  P51686  | percent(76.15 ) | e_value( 7.8E-35 ) | protein_name( CCR9_HUMAN C-C chemokine receptor type 9  ) | prob( 100.0 ) | p_value( 2.2E-38 ) | Score( 221.6 ) | SS( 0.0 ) | Cols( 281 ) | QueryHMM( 45-333 ) ]
+
+pdam_00007315-RA  ( 10 ) -> [  O60353  | percent(67.00 ) | e_value( 8E-73 ) | protein_name( FZD6_HUMAN Frizzled-6  ) | prob( 100.0 ) | p_value( 1.9E-76 ) | Score( 538.3 ) | SS( 0.0 ) | Cols( 473 ) | QueryHMM( 21-512 ) ]
+
+pdam_00019641-RA  ( 7 ) -> [  Q96G91  | percent(72.19 ) | e_value( 7E-22 ) | protein_name( P2Y11_HUMAN P2Y purinoceptor 11  ) | prob( 99.7 ) | p_value( 1.6E-25 ) | Score( 186.9 ) | SS( 0.0 ) | Cols( 270 ) | QueryHMM( 34-326 ) ]
+
+pdam_00010734-RA  ( 7 ) -> [  P43119  | percent(75.39 ) | e_value( 4.8E-24 ) | protein_name( PI2R_HUMAN Prostacyclin receptor  ) | prob( 99.8 ) | p_value( 1.4E-27 ) | Score( 160.3 ) | SS( 0.0 ) | Cols( 291 ) | QueryHMM( 18-313 ) ]
+
+pdam_00017304-RA  ( 6 ) -> [  Q96P65  | percent(67.52 ) | e_value( 9.5E-39 ) | protein_name( QRFPR_HUMAN Pyroglutamylated RF-amide peptide receptor  ) | prob( 100.0 ) | p_value( 2.7E-42 ) | Score( 247.1 ) | SS( 0.0 ) | Cols( 291 ) | QueryHMM( 44-347 ) ]
+
+pdam_00019640-RA  ( 6 ) -> [  P11229  | percent(40.43 ) | e_value( 9.7E-45 ) | protein_name( ACM1_HUMAN Muscarinic acetylcholine receptor M1  ) | prob( 100.0 ) | p_value( 2.4E-48 ) | Score( 338.4 ) | SS( 0.0 ) | Cols( 186 ) | QueryHMM( 31-217 ) ]
+
+pdam_00008454-RA  ( 6 ) -> [  P32302  | percent(75.54 ) | e_value( 5.6E-37 ) | protein_name( CXCR5_HUMAN C-X-C chemokine receptor type 5  ) | prob( 100.0 ) | p_value( 1.5E-40 ) | Score( 245.5 ) | SS( 0.0 ) | Cols( 281 ) | QueryHMM( 53-343 ) ]
+
+pdam_00004028-RA  ( 6 ) -> [  P30968  | percent(86.28 ) | e_value( 8.9E-28 ) | protein_name( GNRHR_HUMAN Gonadotropin-releasing hormone receptor  ) | prob( 99.9 ) | p_value( 2.6E-31 ) | Score( 177.3 ) | SS( 0.0 ) | Cols( 283 ) | QueryHMM( 36-327 ) ]
+
+pdam_00017455-RA  ( 5 ) -> [  Q6DWJ6  | percent(75.92 ) | e_value( 5.4E-28 ) | protein_name( GP139_HUMAN Probable G-protein coupled receptor 139  ) | prob( 99.9 ) | p_value( 1.5E-31 ) | Score( 180.3 ) | SS( 0.0 ) | Cols( 268 ) | QueryHMM( 28-307 ) ]
+
+pdam_00009436-RA  ( 5 ) -> [  Q5T6X5  | percent(82.83 ) | e_value( 3.9E-76 ) | protein_name( GPC6A_HUMAN G-protein coupled receptor family C group 6 member A  ) | prob( 100.0 ) | p_value( 1E-79 ) | Score( 578.7 ) | SS( 0.0 ) | Cols( 767 ) | QueryHMM( 26-858 ) ]
+
+pdam_00006668-RA  ( 4 ) -> [  O60242  | percent(33.38 ) | e_value( 9E-69 ) | protein_name( AGRB3_HUMAN Adhesion G protein-coupled receptor B3  ) | prob( 100.0 ) | p_value( 2E-72 ) | Score( 575.8 ) | SS( 0.0 ) | Cols( 508 ) | QueryHMM( 569-1167 ) ]
+
+pdam_00022316-RA  ( 4 ) -> [  P50406  | percent(68.18 ) | e_value( 5.5E-37 ) | protein_name( 5HT6R_HUMAN 5-hydroxytryptamine receptor 6  ) | prob( 100.0 ) | p_value( 1.6E-40 ) | Score( 231.5 ) | SS( 0.0 ) | Cols( 300 ) | QueryHMM( 42-345 ) ]
+
+pdam_00003579-RA  ( 4 ) -> [  O15303  | percent(91.79 ) | e_value( 4.6E-97 ) | protein_name( GRM6_HUMAN Metabotropic glutamate receptor 6  ) | prob( 100.0 ) | p_value( 1E-100 ) | Score( 723.1 ) | SS( 0.0 ) | Cols( 805 ) | QueryHMM( 34-856 ) ]
+
+pdam_00011076-RA  ( 4 ) -> [  P21452  | percent(74.62 ) | e_value( 9.2E-43 ) | protein_name( NK2R_HUMAN Substance-K receptor  ) | prob( 100.0 ) | p_value( 2.4E-46 ) | Score( 290.8 ) | SS( 0.0 ) | Cols( 297 ) | QueryHMM( 34-330 ) ]
+
+pdam_00008579-RA  ( 4 ) -> [  P23945  | percent(67.48 ) | e_value( 6.1E-45 ) | protein_name( FSHR_HUMAN Follicle-stimulating hormone receptor  ) | prob( 100.0 ) | p_value( 1.7E-48 ) | Score( 343.9 ) | SS( 0.0 ) | Cols( 469 ) | QueryHMM( 176-648 ) ]
+
+pdam_00005244-RA  ( 4 ) -> [  Q9H340  | percent(77.24 ) | e_value( 7.7E-22 ) | protein_name( O51B6_HUMAN Olfactory receptor 51B6  ) | prob( 99.7 ) | p_value( 1.8E-25 ) | Score( 192.2 ) | SS( 0.0 ) | Cols( 241 ) | QueryHMM( 33-306 ) ]
+
+pdam_00000782-RA  ( 3 ) -> [  Q14832  | percent(92.04 ) | e_value( 7E-100 ) | protein_name( GRM3_HUMAN Metabotropic glutamate receptor 3  ) | prob( 100.0 ) | p_value( 2E-103 ) | Score( 736.3 ) | SS( 0.0 ) | Cols( 809 ) | QueryHMM( 31-857 ) ]
+
+pdam_00012246-RA  ( 3 ) -> [  O14718  | percent(88.43 ) | e_value( 9.4E-41 ) | protein_name( OPSX_HUMAN Visual pigment-like receptor peropsin  ) | prob( 100.0 ) | p_value( 2.7E-44 ) | Score( 243.5 ) | SS( 0.0 ) | Cols( 298 ) | QueryHMM( 17-315 ) ]
+
+pdam_00012380-RA  ( 3 ) -> [  O15529  | percent(81.79 ) | e_value( 1.3E-31 ) | protein_name( GPR42_HUMAN G-protein coupled receptor 42  ) | prob( 99.9 ) | p_value( 3.3E-35 ) | Score( 219.9 ) | SS( 0.0 ) | Cols( 283 ) | QueryHMM( 13-297 ) ]
+
+pdam_00006791-RA  ( 3 ) -> [  O43614  | percent(73.20 ) | e_value( 4.7E-45 ) | protein_name( OX2R_HUMAN Orexin receptor type 2  ) | prob( 100.0 ) | p_value( 1.3E-48 ) | Score( 282.8 ) | SS( 0.0 ) | Cols( 325 ) | QueryHMM( 47-389 ) ]
+
+pdam_00014273-RA  ( 3 ) -> [  O75899  | percent(77.26 ) | e_value( 4.9E-86 ) | protein_name( GABR2_HUMAN Gamma-aminobutyric acid type B receptor subunit 2  ) | prob( 100.0 ) | p_value( 1.2E-89 ) | Score( 689.1 ) | SS( 0.0 ) | Cols( 727 ) | QueryHMM( 51-820 ) ]
+
+pdam_00000629-RA  ( 3 ) -> [  P21554  | percent(68.22 ) | e_value( 9.1E-33 ) | protein_name( CNR1_HUMAN Cannabinoid receptor 1  ) | prob( 99.9 ) | p_value( 2.6E-36 ) | Score( 213.5 ) | SS( 0.0 ) | Cols( 322 ) | QueryHMM( 83-419 ) ]
+
+pdam_00019775-RA  ( 3 ) -> [  Q49SQ1  | percent(83.48 ) | e_value( 5E-26 ) | protein_name( GPR33_HUMAN Probable G-protein coupled receptor 33  ) | prob( 99.8 ) | p_value( 1.4E-29 ) | Score( 166.3 ) | SS( 0.0 ) | Cols( 278 ) | QueryHMM( 26-316 ) ]
+
+pdam_00002270-RA  ( 3 ) -> [  P08100  | percent(84.20 ) | e_value( 7.5E-40 ) | protein_name( OPSD_HUMAN Rhodopsin  ) | prob( 100.0 ) | p_value( 2.1E-43 ) | Score( 242.8 ) | SS( 0.0 ) | Cols( 293 ) | QueryHMM( 34-328 ) ]
+
+pdam_00010278-RA  ( 3 ) -> [  P24530  | percent(70.36 ) | e_value( 9.1E-35 ) | protein_name( EDNRB_HUMAN Endothelin receptor type B  ) | prob( 100.0 ) | p_value( 2.6E-38 ) | Score( 221.9 ) | SS( 0.0 ) | Cols( 311 ) | QueryHMM( 100-410 ) ]
+
+pdam_00023339-RA  ( 3 ) -> [  Q9BZJ8  | percent(69.18 ) | e_value( 7.1E-30 ) | protein_name( GPR61_HUMAN G-protein coupled receptor 61  ) | prob( 99.9 ) | p_value( 2E-33 ) | Score( 198.0 ) | SS( 0.0 ) | Cols( 312 ) | QueryHMM( 42-363 ) ]
+
+pdam_00009983-RA  ( 3 ) -> [  Q86SP6  | percent(25.03 ) | e_value( 3.9E-09 ) | protein_name( GP149_HUMAN Probable G-protein coupled receptor 149  ) | prob( 97.8 ) | p_value( 1.1E-12 ) | Score( 85.1 ) | SS( 0.0 ) | Cols( 183 ) | QueryHMM( 30-216 ) ]
+
+pdam_00006723-RA  ( 3 ) -> [  Q9H3N8  | percent(89.49 ) | e_value( 8.8E-38 ) | protein_name( HRH4_HUMAN Histamine H4 receptor  ) | prob( 100.0 ) | p_value( 2.6E-41 ) | Score( 233.6 ) | SS( 0.0 ) | Cols( 349 ) | QueryHMM( 13-381 ) ]
+
+pdam_00020445-RA  ( 3 ) -> [  P48960  | percent(83.71 ) | e_value( 2.3E-74 ) | protein_name( AGRE5_HUMAN Adhesion G protein-coupled receptor E5  ) | prob( 100.0 ) | p_value( 5.6E-78 ) | Score( 612.1 ) | SS( 0.0 ) | Cols( 699 ) | QueryHMM( 34-803 ) ]
+
+pdam_00002659-RA  ( 3 ) -> [  P59540  | percent(92.88 ) | e_value( 9.6E-10 ) | protein_name( T2R46_HUMAN Taste receptor type 2 member 46  ) | prob( 98.0 ) | p_value( 2.8E-13 ) | Score( 75.0 ) | SS( 0.0 ) | Cols( 287 ) | QueryHMM( 9-303 ) ]
+
+pdam_00013619-RA  ( 3 ) -> [  P59541  | percent(38.56 ) | e_value( 6.8E-10 ) | protein_name( T2R30_HUMAN Taste receptor type 2 member 30  ) | prob( 98.0 ) | p_value( 2E-13 ) | Score( 76.8 ) | SS( 0.0 ) | Cols( 123 ) | QueryHMM( 180-302 ) ]
+
+pdam_00010833-RA  ( 3 ) -> [  Q99679  | percent(84.53 ) | e_value( 5E-34 ) | protein_name( GPR21_HUMAN Probable G-protein coupled receptor 21  ) | prob( 99.9 ) | p_value( 1.5E-37 ) | Score( 205.7 ) | SS( 0.0 ) | Cols( 295 ) | QueryHMM( 30-326 ) ]
+
+pdam_00014397-RA  ( 3 ) -> [  Q8IZF7  | percent(67.80 ) | e_value( 2.7E-45 ) | protein_name( AGRF2_HUMAN Adhesion G-protein coupled receptor F2  ) | prob( 100.0 ) | p_value( 6.7E-49 ) | Score( 359.9 ) | SS( 0.0 ) | Cols( 480 ) | QueryHMM( 184-689 ) ]
+
+pdam_00009894-RA  ( 3 ) -> [  Q9Y653  | percent(58.73 ) | e_value( 1.7E-44 ) | protein_name( AGRG1_HUMAN Adhesion G-protein coupled receptor G1  ) | prob( 100.0 ) | p_value( 3.8E-48 ) | Score( 423.3 ) | SS( 0.0 ) | Cols( 407 ) | QueryHMM( 241-667 ) ]
+
+pdam_00004707-RA  ( 3 ) -> [  Q9NYQ7  | percent(44.81 ) | e_value( 7E-156 ) | protein_name( CELR3_HUMAN Cadherin EGF LAG seven-pass G-type receptor 3  ) | prob( 100.0 ) | p_value( 1E-159 ) | Score( 1527.7 ) | SS( 0.0 ) | Cols( 1484 ) | QueryHMM( 323-1914 ) ]
+
+pdam_00020795-RA  ( 2 ) -> [  P25103  | percent(74.20 ) | e_value( 9.9E-42 ) | protein_name( NK1R_HUMAN Substance-P receptor  ) | prob( 100.0 ) | p_value( 2.9E-45 ) | Score( 262.8 ) | SS( 0.0 ) | Cols( 302 ) | QueryHMM( 23-325 ) ]
+
+pdam_00021435-RA  ( 2 ) -> [  O14842  | percent(85.67 ) | e_value( 1.3E-15 ) | protein_name( FFAR1_HUMAN Free fatty acid receptor 1  ) | prob( 99.2 ) | p_value( 3.7E-19 ) | Score( 110.9 ) | SS( 0.0 ) | Cols( 257 ) | QueryHMM( 10-281 ) ]
+
+pdam_00013144-RA  ( 2 ) -> [  O95490  | percent(41.40 ) | e_value( 3.8E-70 ) | protein_name( AGRL2_HUMAN Adhesion G protein-coupled receptor L2  ) | prob( 100.0 ) | p_value( 1E-73 ) | Score( 584.5 ) | SS( 0.0 ) | Cols( 604 ) | QueryHMM( 466-1100 ) ]
+
+pdam_00014558-RA  ( 2 ) -> [  Q9Y2T6  | percent(88.40 ) | e_value( 7.5E-23 ) | protein_name( GPR55_HUMAN G-protein coupled receptor 55  ) | prob( 99.7 ) | p_value( 2.2E-26 ) | Score( 147.0 ) | SS( 0.0 ) | Cols( 282 ) | QueryHMM( 13-301 ) ]
+
+pdam_00011350-RA  ( 2 ) -> [  P0DMS8  | percent(90.57 ) | e_value( 9E-34 ) | protein_name( AA3R_HUMAN Adenosine receptor A3  ) | prob( 99.9 ) | p_value( 2.6E-37 ) | Score( 203.7 ) | SS( 0.0 ) | Cols( 288 ) | QueryHMM( 13-305 ) ]
+
+pdam_00003094-RA  ( 2 ) -> [  P16473  | percent(63.74 ) | e_value( 4.3E-42 ) | protein_name( TSHR_HUMAN Thyrotropin receptor  ) | prob( 100.0 ) | p_value( 9.7E-46 ) | Score( 348.6 ) | SS( 0.0 ) | Cols( 487 ) | QueryHMM( 15-693 ) ]
+
+pdam_00000388-RA  ( 2 ) -> [  P21453  | percent(75.65 ) | e_value( 5.7E-34 ) | protein_name( S1PR1_HUMAN Sphingosine 1-phosphate receptor 1  ) | prob( 99.9 ) | p_value( 1.6E-37 ) | Score( 223.1 ) | SS( 0.0 ) | Cols( 289 ) | QueryHMM( 44-333 ) ]
+
+pdam_00016628-RA  ( 2 ) -> [  Q9NSD7  | percent(64.61 ) | e_value( 8.5E-33 ) | protein_name( RL3R1_HUMAN Relaxin-3 receptor 1  ) | prob( 99.9 ) | p_value( 2.4E-36 ) | Score( 211.9 ) | SS( 0.0 ) | Cols( 303 ) | QueryHMM( 78-409 ) ]
+
+pdam_00002662-RA  ( 2 ) -> [  P28223  | percent(67.09 ) | e_value( 5.3E-39 ) | protein_name( 5HT2A_HUMAN 5-hydroxytryptamine receptor 2A  ) | prob( 100.0 ) | p_value( 1.5E-42 ) | Score( 251.4 ) | SS( 0.0 ) | Cols( 316 ) | QueryHMM( 78-397 ) ]
+
+pdam_00009675-RA  ( 2 ) -> [  P60893  | percent(89.19 ) | e_value( 9.7E-30 ) | protein_name( GPR85_HUMAN Probable G-protein coupled receptor 85  ) | prob( 99.9 ) | p_value( 2.8E-33 ) | Score( 188.5 ) | SS( 0.0 ) | Cols( 330 ) | QueryHMM( 21-358 ) ]
+
+pdam_00022371-RA  ( 2 ) -> [  Q9HBX9  | percent(70.28 ) | e_value( 6.4E-52 ) | protein_name( RXFP1_HUMAN Relaxin receptor 1  ) | prob( 100.0 ) | p_value( 1.7E-55 ) | Score( 386.7 ) | SS( 0.0 ) | Cols( 532 ) | QueryHMM( 141-697 ) ]
+
+pdam_00006829-RA  ( 2 ) -> [  P32245  | percent(80.42 ) | e_value( 2.4E-32 ) | protein_name( MC4R_HUMAN Melanocortin receptor 4  ) | prob( 99.9 ) | p_value( 6.7E-36 ) | Score( 199.2 ) | SS( 0.0 ) | Cols( 267 ) | QueryHMM( 48-320 ) ]
+
+pdam_00022109-RA  ( 2 ) -> [  P33032  | percent(84.31 ) | e_value( 4.7E-33 ) | protein_name( MC5R_HUMAN Melanocortin receptor 5  ) | prob( 99.9 ) | p_value( 1.3E-36 ) | Score( 203.6 ) | SS( 0.0 ) | Cols( 274 ) | QueryHMM( 38-318 ) ]
+
+pdam_00018418-RA  ( 2 ) -> [  P46089  | percent(83.94 ) | e_value( 7.2E-26 ) | protein_name( GPR3_HUMAN G-protein coupled receptor 3  ) | prob( 99.8 ) | p_value( 2.1E-29 ) | Score( 166.5 ) | SS( 0.0 ) | Cols( 277 ) | QueryHMM( 43-319 ) ]
+
+pdam_00011848-RA  ( 2 ) -> [  P49019  | percent(74.42 ) | e_value( 3.2E-32 ) | protein_name( HCAR3_HUMAN Hydroxycarboxylic acid receptor 3  ) | prob( 99.9 ) | p_value( 9.5E-36 ) | Score( 203.0 ) | SS( 0.0 ) | Cols( 288 ) | QueryHMM( 28-318 ) ]
+
+pdam_00022798-RA  ( 2 ) -> [  P59543  | percent(91.59 ) | e_value( 2.3E-10 ) | protein_name( T2R20_HUMAN Taste receptor type 2 member 20  ) | prob( 98.1 ) | p_value( 6.6E-14 ) | Score( 78.7 ) | SS( 0.0 ) | Cols( 283 ) | QueryHMM( 6-299 ) ]
+
+pdam_00017219-RA  ( 2 ) -> [  P59535  | percent(86.38 ) | e_value( 3.4E-07 ) | protein_name( T2R40_HUMAN Taste receptor type 2 member 40  ) | prob( 97.0 ) | p_value( 9.7E-11 ) | Score( 63.4 ) | SS( 0.0 ) | Cols( 279 ) | QueryHMM( 17-311 ) ]
+
+pdam_00001145-RA  ( 2 ) -> [  P59536  | percent(91.21 ) | e_value( 3.2E-10 ) | protein_name( T2R41_HUMAN Taste receptor type 2 member 41  ) | prob( 98.1 ) | p_value( 9.3E-14 ) | Score( 77.8 ) | SS( 0.0 ) | Cols( 280 ) | QueryHMM( 8-299 ) ]
+
+pdam_00013621-RA  ( 2 ) -> [  P59542  | percent(39.13 ) | e_value( 4.4E-08 ) | protein_name( T2R19_HUMAN Taste receptor type 2 member 19  ) | prob( 97.4 ) | p_value( 1.3E-11 ) | Score( 65.3 ) | SS( 0.0 ) | Cols( 117 ) | QueryHMM( 180-296 ) ]
+
+pdam_00009128-RA  ( 2 ) -> [  Q6PRD1  | percent(29.62 ) | e_value( 1E-60 ) | protein_name( GP179_HUMAN Probable G-protein coupled receptor 179  ) | prob( 100.0 ) | p_value( 2.3E-64 ) | Score( 537.8 ) | SS( 0.0 ) | Cols( 701 ) | QueryHMM( 11-728 ) ]
+
+pdam_00005376-RA  ( 2 ) -> [  Q8NGI3  | percent(87.35 ) | e_value( 4.2E-23 ) | protein_name( O56B1_HUMAN Olfactory receptor 56B1  ) | prob( 99.7 ) | p_value( 1.2E-26 ) | Score( 167.9 ) | SS( 0.0 ) | Cols( 283 ) | QueryHMM( 22-316 ) ]
+
+pdam_00017992-RA  ( 2 ) -> [  Q8IZF6  | percent(20.62 ) | e_value( 4E-60 ) | protein_name( AGRG4_HUMAN Adhesion G-protein coupled receptor G4  ) | prob( 100.0 ) | p_value( 9.6E-64 ) | Score( 573.2 ) | SS( 0.0 ) | Cols( 635 ) | QueryHMM( 2374-3017 ) ]
+
+pdam_00017745-RA  ( 2 ) -> [  Q96PE1  | percent(63.08 ) | e_value( 5E-59 ) | protein_name( AGRA2_HUMAN Adhesion G protein-coupled receptor A2  ) | prob( 100.0 ) | p_value( 8.5E-63 ) | Score( 534.4 ) | SS( 0.0 ) | Cols( 844 ) | QueryHMM( 32-945 ) ]
+
+pdam_00010275-RA  ( 2 ) -> [  Q8IYL9  | percent(90.21 ) | e_value( 2.8E-31 ) | protein_name( PSYR_HUMAN Psychosine receptor  ) | prob( 99.9 ) | p_value( 8E-35 ) | Score( 193.5 ) | SS( 0.0 ) | Cols( 304 ) | QueryHMM( 10-314 ) ]
+
+pdam_00000369-RA  ( 2 ) -> [  Q8IZF2  | percent(67.01 ) | e_value( 5.7E-54 ) | protein_name( AGRF5_HUMAN Adhesion G protein-coupled receptor F5  ) | prob( 100.0 ) | p_value( 1.5E-57 ) | Score( 468.7 ) | SS( 0.0 ) | Cols( 902 ) | QueryHMM( 333-1281 ) ]
+
+pdam_00019148-RA  ( 2 ) -> [  Q96P69  | percent(81.54 ) | e_value( 9.9E-23 ) | protein_name( GPR78_HUMAN G-protein coupled receptor 78  ) | prob( 99.7 ) | p_value( 2.9E-26 ) | Score( 146.7 ) | SS( 0.0 ) | Cols( 296 ) | QueryHMM( 17-318 ) ]
+
+pdam_00010469-RA  ( 2 ) -> [  Q96LA9  | percent(79.50 ) | e_value( 2.6E-23 ) | protein_name( MRGX4_HUMAN Mas-related G-protein coupled receptor member X4  ) | prob( 99.7 ) | p_value( 7.6E-27 ) | Score( 148.1 ) | SS( 0.0 ) | Cols( 256 ) | QueryHMM( 29-294 ) ]
+
+pdam_00001928-RA  ( 2 ) -> [  Q9BZJ6  | percent(75.18 ) | e_value( 8.8E-33 ) | protein_name( GPR63_HUMAN Probable G-protein coupled receptor 63  ) | prob( 99.9 ) | p_value( 2.6E-36 ) | Score( 211.9 ) | SS( 0.0 ) | Cols( 315 ) | QueryHMM( 76-392 ) ]
+
+pdam_00007436-RA  ( 2 ) -> [  Q9NPC1  | percent(75.98 ) | e_value( 4.8E-23 ) | protein_name( LT4R2_HUMAN Leukotriene B4 receptor 2  ) | prob( 99.7 ) | p_value( 1.4E-26 ) | Score( 153.3 ) | SS( 0.0 ) | Cols( 272 ) | QueryHMM( 20-304 ) ]
+
+pdam_00010725-RA  ( 2 ) -> [  Q9Y5X5  | percent(55.17 ) | e_value( 5.3E-41 ) | protein_name( NPFF2_HUMAN Neuropeptide FF receptor 2  ) | prob( 100.0 ) | p_value( 1.5E-44 ) | Score( 275.1 ) | SS( 0.0 ) | Cols( 288 ) | QueryHMM( 145-459 ) ]
+
+pdam_00017022-RA  ( 1 ) -> [  O00270  | percent(93.10 ) | e_value( 4.3E-32 ) | protein_name( GPR31_HUMAN 12-(S)-hydroxy-5
+
+pdam_00012138-RA  ( 1 ) -> [  O00398  | percent(83.19 ) | e_value( 1.5E-27 ) | protein_name( P2Y10_HUMAN Putative P2Y purinoceptor 10  ) | prob( 99.9 ) | p_value( 4.2E-31 ) | Score( 176.6 ) | SS( 0.0 ) | Cols( 282 ) | QueryHMM( 31-318 ) ]
+
+pdam_00017883-RA  ( 1 ) -> [  O14626  | percent(92.16 ) | e_value( 2.7E-22 ) | protein_name( GP171_HUMAN Probable G-protein coupled receptor 171  ) | prob( 99.7 ) | p_value( 8E-26 ) | Score( 143.8 ) | SS( 0.0 ) | Cols( 294 ) | QueryHMM( 1-302 ) ]
+
+pdam_00000851-RA  ( 1 ) -> [  O15354  | percent(48.12 ) | e_value( 3.3E-25 ) | protein_name( GPR37_HUMAN Prosaposin receptor GPR37  ) | prob( 99.8 ) | p_value( 9.5E-29 ) | Score( 177.4 ) | SS( 0.0 ) | Cols( 295 ) | QueryHMM( 263-572 ) ]
+
+pdam_00017482-RA  ( 1 ) -> [  O43194  | percent(77.92 ) | e_value( 1.1E-31 ) | protein_name( GPR39_HUMAN G-protein coupled receptor 39  ) | prob( 99.9 ) | p_value( 2.6E-35 ) | Score( 243.2 ) | SS( 0.0 ) | Cols( 353 ) | QueryHMM( 34-450 ) ]
+
+pdam_00012136-RA  ( 1 ) -> [  O43613  | percent(77.65 ) | e_value( 1.7E-41 ) | protein_name( OX1R_HUMAN Orexin receptor type 1  ) | prob( 100.0 ) | p_value( 4.6E-45 ) | Score( 280.0 ) | SS( 0.0 ) | Cols( 330 ) | QueryHMM( 41-377 ) ]
+
+pdam_00019809-RA  ( 1 ) -> [  O60883  | percent(62.99 ) | e_value( 5.9E-22 ) | protein_name( G37L1_HUMAN G-protein coupled receptor 37-like 1  ) | prob( 99.7 ) | p_value( 1.7E-25 ) | Score( 151.7 ) | SS( 0.0 ) | Cols( 303 ) | QueryHMM( 130-441 ) ]
+
+pdam_00022321-RA  ( 1 ) -> [  O95800  | percent(74.26 ) | e_value( 7.6E-26 ) | protein_name( GPR75_HUMAN Probable G-protein coupled receptor 75  ) | prob( 99.8 ) | p_value( 1.9E-29 ) | Score( 199.2 ) | SS( 0.0 ) | Cols( 401 ) | QueryHMM( 44-540 ) ]
+
+pdam_00000887-RA  ( 1 ) -> [  P14416  | percent(40.63 ) | e_value( 3.2E-46 ) | protein_name( DRD2_HUMAN D(2) dopamine receptor  ) | prob( 100.0 ) | p_value( 8.5E-50 ) | Score( 322.5 ) | SS( 0.0 ) | Cols( 180 ) | QueryHMM( 36-225 ) ]
+
+pdam_00004106-RA  ( 1 ) -> [  P21730  | percent(81.14 ) | e_value( 3.2E-33 ) | protein_name( C5AR1_HUMAN C5a anaphylatoxin chemotactic receptor 1  ) | prob( 99.9 ) | p_value( 9.1E-37 ) | Score( 207.1 ) | SS( 0.0 ) | Cols( 284 ) | QueryHMM( 33-320 ) ]
+
+pdam_00003148-RA  ( 1 ) -> [  P25090  | percent(83.76 ) | e_value( 4.2E-34 ) | protein_name( FPR2_HUMAN N-formyl peptide receptor 2  ) | prob( 99.9 ) | p_value( 1.2E-37 ) | Score( 217.7 ) | SS( 0.0 ) | Cols( 294 ) | QueryHMM( 14-319 ) ]
+
+pdam_00023044-RA  ( 1 ) -> [  P30559  | percent(79.18 ) | e_value( 3.5E-35 ) | protein_name( OXYR_HUMAN Oxytocin receptor  ) | prob( 100.0 ) | p_value( 1E-38 ) | Score( 227.7 ) | SS( 0.0 ) | Cols( 308 ) | QueryHMM( 37-345 ) ]
+
+pdam_00019867-RA  ( 1 ) -> [  P30989  | percent(69.86 ) | e_value( 1.1E-34 ) | protein_name( NTR1_HUMAN Neurotensin receptor type 1  ) | prob( 100.0 ) | p_value( 3.2E-38 ) | Score( 220.2 ) | SS( 0.0 ) | Cols( 292 ) | QueryHMM( 60-383 ) ]
+
+pdam_00011786-RA  ( 1 ) -> [  P34995  | percent(74.13 ) | e_value( 5.9E-16 ) | protein_name( PE2R1_HUMAN Prostaglandin E2 receptor EP1 subtype  ) | prob( 99.2 ) | p_value( 1.7E-19 ) | Score( 112.2 ) | SS( 0.0 ) | Cols( 298 ) | QueryHMM( 41-370 ) ]
+
+pdam_00016347-RA  ( 1 ) -> [  P35410  | percent(62.70 ) | e_value( 1.1E-16 ) | protein_name( MAS1L_HUMAN Mas-related G-protein coupled receptor MRG  ) | prob( 99.3 ) | p_value( 3E-20 ) | Score( 120.1 ) | SS( 0.0 ) | Cols( 237 ) | QueryHMM( 82-328 ) ]
+
+pdam_00007215-RA  ( 1 ) -> [  P35408  | percent(56.15 ) | e_value( 9.5E-34 ) | protein_name( PE2R4_HUMAN Prostaglandin E2 receptor EP4 subtype  ) | prob( 99.9 ) | p_value( 2.5E-37 ) | Score( 238.2 ) | SS( 0.0 ) | Cols( 274 ) | QueryHMM( 22-359 ) ]
+
+pdam_00005404-RA  ( 1 ) -> [  P41180  | percent(74.03 ) | e_value( 2E-102 ) | protein_name( CASR_HUMAN Extracellular calcium-sensing receptor  ) | prob( 100.0 ) | p_value( 5E-106 ) | Score( 806.1 ) | SS( 0.0 ) | Cols( 798 ) | QueryHMM( 24-872 ) ]
+
+pdam_00009434-RA  ( 1 ) -> [  P41594  | percent(65.51 ) | e_value( 4.1E-97 ) | protein_name( GRM5_HUMAN Metabotropic glutamate receptor 5  ) | prob( 100.0 ) | p_value( 1E-100 ) | Score( 753.7 ) | SS( 0.0 ) | Cols( 794 ) | QueryHMM( 28-839 ) ]
+
+pdam_00002488-RA  ( 1 ) -> [  P43116  | percent(81.56 ) | e_value( 1.8E-23 ) | protein_name( PE2R2_HUMAN Prostaglandin E2 receptor EP2 subtype  ) | prob( 99.7 ) | p_value( 5.3E-27 ) | Score( 153.8 ) | SS( 0.0 ) | Cols( 292 ) | QueryHMM( 27-335 ) ]
+
+pdam_00021693-RA  ( 1 ) -> [  P46663  | percent(82.44 ) | e_value( 5.7E-34 ) | protein_name( BKRB1_HUMAN B1 bradykinin receptor  ) | prob( 99.9 ) | p_value( 1.6E-37 ) | Score( 212.0 ) | SS( 0.0 ) | Cols( 291 ) | QueryHMM( 33-333 ) ]
+
+pdam_00007449-RA  ( 1 ) -> [  P50391  | percent(76.53 ) | e_value( 6.7E-36 ) | protein_name( NPY4R_HUMAN Neuropeptide Y receptor type 4  ) | prob( 100.0 ) | p_value( 1.9E-39 ) | Score( 226.0 ) | SS( 0.0 ) | Cols( 287 ) | QueryHMM( 41-344 ) ]
+
+pdam_00003331-RA  ( 1 ) -> [  P51810  | percent(42.82 ) | e_value( 6.8E-12 ) | protein_name( GP143_HUMAN G-protein coupled receptor 143  ) | prob( 98.5 ) | p_value( 1.7E-15 ) | Score( 109.8 ) | SS( 0.0 ) | Cols( 173 ) | QueryHMM( 113-310 ) ]
+
+pdam_00004281-RA  ( 1 ) -> [  P59551  | percent(38.99 ) | e_value( 2.2E-08 ) | protein_name( T2R60_HUMAN Taste receptor type 2 member 60  ) | prob( 97.5 ) | p_value( 6.3E-12 ) | Score( 68.7 ) | SS( 0.0 ) | Cols( 124 ) | QueryHMM( 1-130 ) ]
+
+pdam_00006786-RA  ( 1 ) -> [  P61073  | percent(79.55 ) | e_value( 2.4E-36 ) | protein_name( CXCR4_HUMAN C-X-C chemokine receptor type 4  ) | prob( 100.0 ) | p_value( 6.9E-40 ) | Score( 227.5 ) | SS( 0.0 ) | Cols( 280 ) | QueryHMM( 32-319 ) ]
+
+pdam_00006140-RA  ( 1 ) -> [  Q01726  | percent(93.06 ) | e_value( 3.4E-29 ) | protein_name( MSHR_HUMAN Melanocyte-stimulating hormone receptor  ) | prob( 99.9 ) | p_value( 9.3E-33 ) | Score( 189.7 ) | SS( 0.0 ) | Cols( 295 ) | QueryHMM( 11-316 ) ]
+
+pdam_00003981-RA  ( 1 ) -> [  Q14439  | percent(58.64 ) | e_value( 4.7E-27 ) | protein_name( GP176_HUMAN G-protein coupled receptor 176  ) | prob( 99.8 ) | p_value( 1.2E-30 ) | Score( 210.1 ) | SS( 0.0 ) | Cols( 302 ) | QueryHMM( 37-458 ) ]
+
+pdam_00007438-RA  ( 1 ) -> [  Q16570  | percent(72.02 ) | e_value( 0.0013 ) | protein_name( ACKR1_HUMAN Atypical chemokine receptor 1  ) | prob( 92.9 ) | p_value( 3.8E-07 ) | Score( 44.8 ) | SS( 0.0 ) | Cols( 242 ) | QueryHMM( 62-316 ) ]
+
+pdam_00010164-RA  ( 1 ) -> [  Q5UAW9  | percent(83.58 ) | e_value( 1.6E-27 ) | protein_name( GP157_HUMAN G-protein coupled receptor 157  ) | prob( 99.9 ) | p_value( 4.4E-31 ) | Score( 198.0 ) | SS( 0.0 ) | Cols( 280 ) | QueryHMM( 14-298 ) ]
+
+pdam_00003881-RA  ( 1 ) -> [  Q6NV75  | percent(23.32 ) | e_value( 3.9E-14 ) | protein_name( GP153_HUMAN Probable G-protein coupled receptor 153  ) | prob( 98.9 ) | p_value( 1.1E-17 ) | Score( 109.5 ) | SS( 0.0 ) | Cols( 142 ) | QueryHMM( 7-153 ) ]
+
+pdam_00002512-RA  ( 1 ) -> [  Q7RTX1  | percent(93.70 ) | e_value( 7.5E-74 ) | protein_name( TS1R1_HUMAN Taste receptor type 1 member 1  ) | prob( 100.0 ) | p_value( 2E-77 ) | Score( 549.9 ) | SS( 0.0 ) | Cols( 788 ) | QueryHMM( 32-839 ) ]
+
+pdam_00005187-RA  ( 1 ) -> [  Q7Z5H4  | percent(35.57 ) | e_value( 0.0032 ) | protein_name( VN1R5_HUMAN Vomeronasal type-1 receptor 5  ) | prob( 91.3 ) | p_value( 9.3E-07 ) | Score( 42.1 ) | SS( 0.0 ) | Cols( 127 ) | QueryHMM( 47-182 ) ]
+
+pdam_00022799-RA  ( 1 ) -> [  Q7Z5H5  | percent(88.70 ) | e_value( 7.9E-11 ) | protein_name( VN1R4_HUMAN Vomeronasal type-1 receptor 4  ) | prob( 98.3 ) | p_value( 2.3E-14 ) | Score( 80.9 ) | SS( 0.0 ) | Cols( 267 ) | QueryHMM( 15-292 ) ]
+
+pdam_00016109-RA  ( 1 ) -> [  Q7Z601  | percent(56.28 ) | e_value( 1.7E-23 ) | protein_name( GP142_HUMAN Probable G-protein coupled receptor 142  ) | prob( 99.7 ) | p_value( 4.6E-27 ) | Score( 165.0 ) | SS( 0.0 ) | Cols( 260 ) | QueryHMM( 157-430 ) ]
+
+pdam_00006679-RA  ( 1 ) -> [  Q7Z7M1  | percent(35.51 ) | e_value( 9.3E-38 ) | protein_name( AGRD2_HUMAN Adhesion G-protein coupled receptor D2  ) | prob( 100.0 ) | p_value( 2.3E-41 ) | Score( 308.9 ) | SS( 0.0 ) | Cols( 342 ) | QueryHMM( 568-917 ) ]
+
+pdam_00018831-RA  ( 1 ) -> [  Q86SM5  | percent(87.54 ) | e_value( 5E-12 ) | protein_name( MRGRG_HUMAN Mas-related G-protein coupled receptor member G  ) | prob( 98.6 ) | p_value( 1.3E-15 ) | Score( 95.8 ) | SS( 0.0 ) | Cols( 253 ) | QueryHMM( 15-269 ) ]
+
+pdam_00020600-RA  ( 1 ) -> [  Q86SM8  | percent(81.09 ) | e_value( 2.8E-15 ) | protein_name( MRGRE_HUMAN Mas-related G-protein coupled receptor member E  ) | prob( 99.1 ) | p_value( 7.9E-19 ) | Score( 107.8 ) | SS( 0.0 ) | Cols( 253 ) | QueryHMM( 23-275 ) ]
+
+pdam_00016391-RA  ( 1 ) -> [  Q86SQ3  | percent(65.86 ) | e_value( 1.2E-44 ) | protein_name( AGRE4_HUMAN Putative adhesion G protein-coupled receptor E4P  ) | prob( 100.0 ) | p_value( 3.1E-48 ) | Score( 306.5 ) | SS( 0.0 ) | Cols( 301 ) | QueryHMM( 135-448 ) ]
+
+pdam_00008020-RA  ( 1 ) -> [  Q86SQ6  | percent(45.54 ) | e_value( 7.3E-24 ) | protein_name( AGRA1_HUMAN Adhesion G protein-coupled receptor A1  ) | prob( 99.8 ) | p_value( 1.6E-27 ) | Score( 198.9 ) | SS( 0.0 ) | Cols( 255 ) | QueryHMM( 14-318 ) ]
+
+pdam_00014557-RA  ( 1 ) -> [  Q86VZ1  | percent(85.52 ) | e_value( 3.9E-33 ) | protein_name( P2RY8_HUMAN P2Y purinoceptor 8  ) | prob( 99.9 ) | p_value( 1.1E-36 ) | Score( 205.3 ) | SS( 0.0 ) | Cols( 307 ) | QueryHMM( 4-316 ) ]
+
+pdam_00020436-RA  ( 1 ) -> [  Q86Y34  | percent(85.25 ) | e_value( 8.6E-64 ) | protein_name( AGRG3_HUMAN Adhesion G protein-coupled receptor G3  ) | prob( 100.0 ) | p_value( 2E-67 ) | Score( 500.2 ) | SS( 0.0 ) | Cols( 468 ) | QueryHMM( 20-515 ) ]
+
+pdam_00018943-RA  ( 1 ) -> [  Q8IZF5  | percent(46.99 ) | e_value( 4.6E-58 ) | protein_name( AGRF3_HUMAN Adhesion G-protein coupled receptor F3  ) | prob( 100.0 ) | p_value( 1E-61 ) | Score( 493.1 ) | SS( 0.0 ) | Cols( 507 ) | QueryHMM( 472-1043 ) ]
+
+pdam_00022784-RA  ( 1 ) -> [  Q8IZP9  | percent(52.61 ) | e_value( 1.8E-66 ) | protein_name( AGRG2_HUMAN Adhesion G-protein coupled receptor G2  ) | prob( 100.0 ) | p_value( 4.5E-70 ) | Score( 515.0 ) | SS( 0.0 ) | Cols( 535 ) | QueryHMM( 315-898 ) ]
+
+pdam_00019176-RA  ( 1 ) -> [  Q8N6U8  | percent(82.23 ) | e_value( 6.3E-36 ) | protein_name( GP161_HUMAN G-protein coupled receptor 161  ) | prob( 100.0 ) | p_value( 1.3E-39 ) | Score( 298.3 ) | SS( 0.0 ) | Cols( 435 ) | QueryHMM( 29-491 ) ]
+
+pdam_00018430-RA  ( 1 ) -> [  Q8NFZ6  | percent(67.59 ) | e_value( 4.4E-11 ) | protein_name( VN1R2_HUMAN Vomeronasal type-1 receptor 2  ) | prob( 98.3 ) | p_value( 1.2E-14 ) | Score( 89.6 ) | SS( 0.0 ) | Cols( 267 ) | QueryHMM( 95-373 ) ]
+
+pdam_00016105-RA  ( 1 ) -> [  Q8NGF0  | percent(77.31 ) | e_value( 9.7E-28 ) | protein_name( O52B6_HUMAN Olfactory receptor 52B6  ) | prob( 99.9 ) | p_value( 2.4E-31 ) | Score( 201.4 ) | SS( 0.0 ) | Cols( 259 ) | QueryHMM( 42-329 ) ]
+
+pdam_00002493-RA  ( 1 ) -> [  Q8NGU9  | percent(70.28 ) | e_value( 4.5E-20 ) | protein_name( GP150_HUMAN Probable G-protein coupled receptor 150  ) | prob( 99.6 ) | p_value( 1.3E-23 ) | Score( 136.9 ) | SS( 0.0 ) | Cols( 305 ) | QueryHMM( 38-371 ) ]
+
+pdam_00008703-RA  ( 1 ) -> [  Q8TDS7  | percent(78.50 ) | e_value( 2.7E-20 ) | protein_name( MRGRD_HUMAN Mas-related G-protein coupled receptor member D  ) | prob( 99.6 ) | p_value( 7.8E-24 ) | Score( 132.2 ) | SS( 0.0 ) | Cols( 252 ) | QueryHMM( 23-282 ) ]
+
+pdam_00003206-RA  ( 1 ) -> [  Q8TDT2  | percent(84.26 ) | e_value( 6.4E-29 ) | protein_name( GP152_HUMAN Probable G-protein coupled receptor 152  ) | prob( 99.9 ) | p_value( 1.6E-32 ) | Score( 218.7 ) | SS( 0.0 ) | Cols( 396 ) | QueryHMM( 30-430 ) ]
+
+pdam_00004691-RA  ( 1 ) -> [  Q8TDU6  | percent(83.33 ) | e_value( 4.9E-13 ) | protein_name( GPBAR_HUMAN G-protein coupled bile acid receptor 1  ) | prob( 98.7 ) | p_value( 1.4E-16 ) | Score( 94.6 ) | SS( 0.0 ) | Cols( 275 ) | QueryHMM( 23-298 ) ]
+
+pdam_00006760-RA  ( 1 ) -> [  Q8TDV2  | percent(36.89 ) | e_value( 1.5E-12 ) | protein_name( GP148_HUMAN Probable G-protein coupled receptor 148  ) | prob( 98.7 ) | p_value( 4.3E-16 ) | Score( 92.1 ) | SS( 0.0 ) | Cols( 128 ) | QueryHMM( 58-186 ) ]
+
+pdam_00010947-RA  ( 1 ) -> [  Q8TDV0  | percent(89.50 ) | e_value( 5.3E-26 ) | protein_name( GP151_HUMAN G-protein coupled receptor 151  ) | prob( 99.8 ) | p_value( 1.3E-29 ) | Score( 196.9 ) | SS( 0.0 ) | Cols( 375 ) | QueryHMM( 31-410 ) ]
+
+pdam_00004524-RA  ( 1 ) -> [  Q8WXD0  | percent(66.31 ) | e_value( 7.7E-50 ) | protein_name( RXFP2_HUMAN Relaxin receptor 2  ) | prob( 100.0 ) | p_value( 1.9E-53 ) | Score( 395.9 ) | SS( 0.0 ) | Cols( 500 ) | QueryHMM( 161-712 ) ]
+
+pdam_00010835-RA  ( 1 ) -> [  Q92633  | percent(79.95 ) | e_value( 3.4E-32 ) | protein_name( LPAR1_HUMAN Lysophosphatidic acid receptor 1  ) | prob( 99.9 ) | p_value( 1E-35 ) | Score( 199.4 ) | SS( 0.0 ) | Cols( 291 ) | QueryHMM( 45-336 ) ]
+
+pdam_00006692-RA  ( 1 ) -> [  Q96AM1  | percent(76.68 ) | e_value( 6.9E-18 ) | protein_name( MRGRF_HUMAN Mas-related G-protein coupled receptor member F  ) | prob( 99.4 ) | p_value( 2E-21 ) | Score( 121.8 ) | SS( 0.0 ) | Cols( 263 ) | QueryHMM( 45-310 ) ]
+
+pdam_00010127-RA  ( 1 ) -> [  Q96CH1  | percent(77.78 ) | e_value( 2.4E-14 ) | protein_name( GP146_HUMAN Probable G-protein coupled receptor 146  ) | prob( 99.0 ) | p_value( 6.8E-18 ) | Score( 102.8 ) | SS( 0.0 ) | Cols( 259 ) | QueryHMM( 39-325 ) ]
+
+pdam_00017703-RA  ( 1 ) -> [  Q96K78  | percent(64.12 ) | e_value( 1.5E-46 ) | protein_name( AGRG7_HUMAN Adhesion G-protein coupled receptor G7  ) | prob( 100.0 ) | p_value( 3.6E-50 ) | Score( 396.2 ) | SS( 0.0 ) | Cols( 511 ) | QueryHMM( 156-730 ) ]
+
+pdam_00017881-RA  ( 1 ) -> [  Q96LB1  | percent(76.06 ) | e_value( 6.7E-21 ) | protein_name( MRGX2_HUMAN Mas-related G-protein coupled receptor member X2  ) | prob( 99.6 ) | p_value( 1.9E-24 ) | Score( 140.2 ) | SS( 0.0 ) | Cols( 251 ) | QueryHMM( 34-289 ) ]
+
+pdam_00012393-RA  ( 1 ) -> [  Q96LB2  | percent(74.84 ) | e_value( 5.6E-23 ) | protein_name( MRGX1_HUMAN Mas-related G-protein coupled receptor member X1  ) | prob( 99.7 ) | p_value( 1.6E-26 ) | Score( 147.0 ) | SS( 0.0 ) | Cols( 241 ) | QueryHMM( 28-275 ) ]
+
+pdam_00000626-RA  ( 1 ) -> [  Q96P66  | percent(39.76 ) | e_value( 3.7E-36 ) | protein_name( GP101_HUMAN Probable G-protein coupled receptor 101  ) | prob( 100.0 ) | p_value( 8.1E-40 ) | Score( 294.6 ) | SS( 0.0 ) | Cols( 202 ) | QueryHMM( 30-231 ) ]
+
+pdam_00000020-RA  ( 1 ) -> [  Q99463  | percent(81.72 ) | e_value( 2.2E-31 ) | protein_name( NPY6R_HUMAN Putative neuropeptide Y receptor type 6  ) | prob( 99.9 ) | p_value( 6.4E-35 ) | Score( 184.8 ) | SS( 0.0 ) | Cols( 237 ) | QueryHMM( 26-278 ) ]
+
+pdam_00017162-RA  ( 1 ) -> [  Q99500  | percent(74.34 ) | e_value( 4.1E-32 ) | protein_name( S1PR3_HUMAN Sphingosine 1-phosphate receptor 3  ) | prob( 99.9 ) | p_value( 1.2E-35 ) | Score( 202.8 ) | SS( 0.0 ) | Cols( 281 ) | QueryHMM( 40-322 ) ]
+
+pdam_00019688-RA  ( 1 ) -> [  Q99835  | percent(53.49 ) | e_value( 7.3E-57 ) | protein_name( SMO_HUMAN Smoothened homolog  ) | prob( 100.0 ) | p_value( 1.8E-60 ) | Score( 418.9 ) | SS( 0.0 ) | Cols( 421 ) | QueryHMM( 67-489 ) ]
+
+pdam_00004907-RA  ( 1 ) -> [  Q9BY15  | percent(55.98 ) | e_value( 2.2E-56 ) | protein_name( AGRE3_HUMAN Adhesion G protein-coupled receptor E3  ) | prob( 100.0 ) | p_value( 5.3E-60 ) | Score( 474.9 ) | SS( 0.0 ) | Cols( 365 ) | QueryHMM( 234-617 ) ]
+
+pdam_00017189-RA  ( 1 ) -> [  Q9BXE9  | percent(89.39 ) | e_value( 2.3E-09 ) | protein_name( VN1R3_HUMAN Vomeronasal type-1 receptor 3  ) | prob( 97.8 ) | p_value( 6.8E-13 ) | Score( 73.2 ) | SS( 0.0 ) | Cols( 278 ) | QueryHMM( 5-294 ) ]
+
+pdam_00011598-RA  ( 1 ) -> [  Q9GZN0  | percent(79.43 ) | e_value( 1.4E-21 ) | protein_name( GPR88_HUMAN Probable G-protein coupled receptor 88  ) | prob( 99.7 ) | p_value( 4E-25 ) | Score( 145.0 ) | SS( 0.0 ) | Cols( 305 ) | QueryHMM( 30-353 ) ]
+
+pdam_00016974-RA  ( 1 ) -> [  Q9H1Y3  | percent(87.81 ) | e_value( 5.3E-38 ) | protein_name( OPN3_HUMAN Opsin-3  ) | prob( 100.0 ) | p_value( 1.1E-41 ) | Score( 334.1 ) | SS( 0.0 ) | Cols( 353 ) | QueryHMM( 43-402 ) ]
+
+pdam_00004050-RA  ( 1 ) -> [  Q9H228  | percent(74.12 ) | e_value( 8.1E-27 ) | protein_name( S1PR5_HUMAN Sphingosine 1-phosphate receptor 5  ) | prob( 99.8 ) | p_value( 2.3E-30 ) | Score( 175.9 ) | SS( 0.0 ) | Cols( 295 ) | QueryHMM( 41-336 ) ]
+
+pdam_00010283-RA  ( 1 ) -> [  Q9H244  | percent(90.94 ) | e_value( 4.1E-28 ) | protein_name( P2Y12_HUMAN P2Y purinoceptor 12  ) | prob( 99.9 ) | p_value( 1.2E-31 ) | Score( 177.1 ) | SS( 0.0 ) | Cols( 311 ) | QueryHMM( 9-319 ) ]
+
+pdam_00018198-RA  ( 1 ) -> [  Q9HBW9  | percent(75.94 ) | e_value( 2.3E-62 ) | protein_name( AGRL4_HUMAN Adhesion G protein-coupled receptor L4  ) | prob( 100.0 ) | p_value( 4.6E-66 ) | Score( 537.9 ) | SS( 0.0 ) | Cols( 524 ) | QueryHMM( 132-682 ) ]
+
+pdam_00014217-RA  ( 1 ) -> [  Q9NQ84  | percent(72.56 ) | e_value( 5.6E-18 ) | protein_name( GPC5C_HUMAN G-protein coupled receptor family C group 5 member C  ) | prob( 99.4 ) | p_value( 1.5E-21 ) | Score( 144.9 ) | SS( 0.0 ) | Cols( 320 ) | QueryHMM( 46-374 ) ]
+
+pdam_00004370-RA  ( 1 ) -> [  Q9NS66  | percent(86.06 ) | e_value( 3.3E-28 ) | protein_name( GP173_HUMAN Probable G-protein coupled receptor 173  ) | prob( 99.9 ) | p_value( 9.4E-32 ) | Score( 181.0 ) | SS( 0.0 ) | Cols( 321 ) | QueryHMM( 1-358 ) ]
+
+pdam_00020500-RA  ( 1 ) -> [  Q9NYV7  | percent(16.49 ) | e_value( 0.0011 ) | protein_name( T2R16_HUMAN Taste receptor type 2 member 16  ) | prob( 93.1 ) | p_value( 3.1E-07 ) | Score( 42.7 ) | SS( 0.0 ) | Cols( 48 ) | QueryHMM( 9-59 ) ]
+
+pdam_00016973-RA  ( 1 ) -> [  Q9NYV8  | percent(90.85 ) | e_value( 2.2E-10 ) | protein_name( T2R14_HUMAN Taste receptor type 2 member 14  ) | prob( 98.1 ) | p_value( 6.4E-14 ) | Score( 79.4 ) | SS( 0.0 ) | Cols( 288 ) | QueryHMM( 7-301 ) ]
+
+pdam_00010145-RA  ( 1 ) -> [  Q9NZH0  | percent(83.37 ) | e_value( 1.2E-24 ) | protein_name( GPC5B_HUMAN G-protein coupled receptor family C group 5 member B  ) | prob( 99.8 ) | p_value( 3.2E-28 ) | Score( 194.5 ) | SS( 0.0 ) | Cols( 336 ) | QueryHMM( 50-395 ) ]
+
+pdam_00017886-RA  ( 1 ) -> [  Q9UBY5  | percent(79.60 ) | e_value( 6.5E-31 ) | protein_name( LPAR3_HUMAN Lysophosphatidic acid receptor 3  ) | prob( 99.9 ) | p_value( 1.9E-34 ) | Score( 194.9 ) | SS( 0.0 ) | Cols( 281 ) | QueryHMM( 31-316 ) ]
+
+pdam_00006421-RA  ( 1 ) -> [  Q9UJ42  | percent(16.27 ) | e_value( 7.9E-08 ) | protein_name( GP160_HUMAN Probable G-protein coupled receptor 160  ) | prob( 97.3 ) | p_value( 2.3E-11 ) | Score( 67.2 ) | SS( 0.0 ) | Cols( 55 ) | QueryHMM( 243-297 ) ]
+
+pdam_00010951-RA  ( 1 ) -> [  Q9UNW8  | percent(73.95 ) | e_value( 2.7E-24 ) | protein_name( GP132_HUMAN Probable G-protein coupled receptor 132  ) | prob( 99.8 ) | p_value( 7.7E-28 ) | Score( 165.9 ) | SS( 0.0 ) | Cols( 281 ) | QueryHMM( 38-328 ) ]
+
+pdam_00015313-RA  ( 1 ) -> [  Q9UPC5  | percent(77.69 ) | e_value( 3.2E-33 ) | protein_name( GPR34_HUMAN Probable G-protein coupled receptor 34  ) | prob( 99.9 ) | p_value( 9.2E-37 ) | Score( 211.8 ) | SS( 0.0 ) | Cols( 296 ) | QueryHMM( 45-347 ) ]

@@ -1,0 +1,4 @@
+# don't track generated files
+combined_fasta_corals.txt
+simplified_pdam.txt
+split_sequences/
